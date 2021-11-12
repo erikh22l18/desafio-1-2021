@@ -149,7 +149,7 @@ Podrá seguir el estado del envío accediendo a la [página del desafío](https:
 
 ## 7. Sobre la evaluación
 
-Una semana después del inicio del desafío, uestro sistema de evaluación automatizado iniciará las evaluaciones. Utilizará las credenciales enviadas para probar el modelo enviado y calculará una puntuación numérica del 1 al 100, baseado en la métrica [F<sub>1</sub>](https://en.wikipedia.org/wiki/F-score). Su solución debe estar alojada en Watson Machine Learning y el archivo `.zip` enviado debe contener todo el código utilizado para obtener la solución. De lo contrario, la puntuación se cero.
+Una semana después del inicio del desafío, nuestro sistema de evaluación automatizado iniciará las evaluaciones. Utilizará las credenciales enviadas para probar el modelo enviado y calculará una puntuación numérica del 1 al 100, baseado en la métrica [F<sub>1</sub>](https://en.wikipedia.org/wiki/F-score). Su solución debe estar alojada en Watson Machine Learning y el archivo `.zip` enviado debe contener todo el código utilizado para obtener la solución. De lo contrario, la puntuación se cero.
 
 Si el desafío se entrega dentro del plazo de envío (hasta el 21 de noviembre), el participante recibirá una bonificación del 10% de la puntuación total (10 puntos), independientemente del resultado de su desafío. Por tanto, la puntuación máxima posible es 110 (puntuación de 100 + bonificación de 10).
 
